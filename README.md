@@ -1,5 +1,7 @@
 # Assignment 2: Make a reverse-engineered Snap Lens
 
+This proejct was adapted from The Coding School's excellent Coding Challenge here: https://www.youtube.com/watch?v=9z9mbiOZqSs
+
 Here are the requirements: 
 
 1. VARIABLES: Based on a poseNet keypoint position (this is an object with a x and y property) in ml5, activate at least one change in p5.js (display an image,run an animation,change the screen in some way, etc.).
